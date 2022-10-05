@@ -1,6 +1,6 @@
 # hm-docusaurus-images-docs
 
-# 🚀 Terraform module for Vault deployment on Digitalocean 🚀
+# 🚀 Personal blog and documentation site using Docusaurus 🚀
 
 https://github.com/coding-to-music/hm-docusaurus-images-docs
 
