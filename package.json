@@ -1,5 +1,5 @@
 {
-  "name": "human-and-machine",
+  "name": "hm-docusaurus-images-docs",
   "version": "0.0.1",
   "private": true,
   "homepage": "/hm",
@@ -8,7 +8,8 @@
     "start": "cross-env BASE_URL='/hm/' docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "cross-env BASE_URL='/hm/' GIT_USER=git USE_SSH=true docusaurus deploy",
+    "real:deploy": "cross-env BASE_URL='/hm/' GIT_USER=git USE_SSH=true docusaurus deploy",
+    "deploy": "git add . && git commit -m Build && git push",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "write-translations": "docusaurus write-translations",

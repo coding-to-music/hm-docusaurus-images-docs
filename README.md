@@ -1,3 +1,33 @@
+# hm-docusaurus-images-docs
+
+# 🚀 Terraform module for Vault deployment on Digitalocean 🚀
+
+https://github.com/coding-to-music/hm-docusaurus-images-docs
+
+From / By https://github.com/PaPa31/hm
+
+https://papa31.github.io/hm/
+
+## Environment variables:
+
+```java
+
+```
+
+## user interfaces:
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/hm-docusaurus-images-docs.git
+git push -u origin main
+```
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
