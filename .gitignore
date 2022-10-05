@@ -1,5 +1,7 @@
 # Dependencies
 /node_modules
+package-lock.json
+.env
 
 # Production
 /build
@@ -21,3 +23,4 @@ yarn-error.log*
 debug.log*
 
 /DevProfile
+.vercel

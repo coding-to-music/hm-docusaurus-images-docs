@@ -4,6 +4,8 @@
 
 https://github.com/coding-to-music/hm-docusaurus-images-docs
 
+https://vercel.com/coding-to-music/hm-docusaurus-images-docs
+
 From / By https://github.com/PaPa31/hm
 
 https://papa31.github.io/hm/
